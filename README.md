@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Matías Hernán Guevara</h1>
-<h3 align="center">Software Engineer Jr</h3>
+<h3 align="center">Software Engineer Ssr</h3>
 <p>
 My aim is to continue my career at web development. I look forward to work in motivating and challenging projects. My intention is to continue working at enterprises in a global context with the interaction of a multicultural environment.
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Matias-Guevara&label=Profile%20views&color=0e75b6&style=flat" alt="MatiasG" /> </p>
 
-- 🔭 I’m currently working on **Web Development with React and Java**
+- 🔭 I’m currently working on **Backend Engineer with Java & Go**
 
 - 🌱 I’m currently learning **Microservices & DDD**
 
