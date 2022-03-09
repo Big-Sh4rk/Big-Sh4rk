@@ -7,7 +7,7 @@ My aim is to continue my career at web development. I look forward to work in mo
 
 - 🔭 I’m currently working on **Web Development with React and Java**
 
-- 🌱 I’m currently learning **Node, SQL, NoSQL, and Go**
+- 🌱 I’m currently learning **Microservices & DDD**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Matias-Guevara](https://github.com/Matias-Guevara)
 
