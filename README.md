@@ -7,7 +7,7 @@ My aim is to continue my career at web development. I look forward to work in mo
 
 - 🔭 I’m currently working on **Backend Engineer with Java & Go**
 
-- 🌱 I’m currently learning **Microservices & DDD**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Matias-Guevara](https://github.com/Matias-Guevara)
 
