@@ -9,11 +9,11 @@ My aim is to continue my career at web development. I look forward to work in mo
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Matias-Guevara](https://github.com/Matias-Guevara)
+- 👨‍💻 All of my projects are available at [https://github.com/Big-Sh4rk](https://github.com/Big-Sh4rk)
 
-- 📫 How to reach me **chlmatias.guevara@gmail.com**
+- 📫 How to reach me **bigsh4ark@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/mat%C3%ADas-hern%C3%A1n-guevara-60480816b/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/matias-guevara15/)
 
 
 
