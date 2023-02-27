@@ -5,7 +5,7 @@ My aim is to continue my career at web development. I look forward to work in mo
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Matias-Guevara&label=Profile%20views&color=0e75b6&style=flat" alt="MatiasG" /> </p>
 
-- 🔭 I’m currently working on **Backend Engineer with Java & Go**
+- 🔭 I’m currently working on **FullStack Engineer with React & Node/Go**
 
 - 🌱 I’m currently learning **Blockchain**
 
